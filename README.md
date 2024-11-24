@@ -4,4 +4,4 @@ Un proyecto que simula un sistema de almacenamiento de datos, con la capacidad d
 
 El almacenamiento de datos se realiza en archivos de acuerdo con la estructura de los datos enviados.
 
-Ejecutar las pruebas para verificar el funcionamiento del sistema.
+Nicolas Perez Padilla.
